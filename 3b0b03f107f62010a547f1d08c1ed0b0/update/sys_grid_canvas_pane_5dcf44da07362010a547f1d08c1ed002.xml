@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Stock Quotes">8dcf04da07362010a547f1d08c1ed0eb</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2015-02-10 22:23:44">19cb1463eb023100871aac6aa206fe52</portal_widget>
+        <posx>6</posx>
+        <posy>60</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-11 21:08:39</sys_created_on>
+        <sys_id>5dcf44da07362010a547f1d08c1ed002</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8dcf04da07362010a547f1d08c1ed0eb</sys_name>
+        <sys_package display_value="Court's Activity" source="x_486898_casetask">3b0b03f107f62010a547f1d08c1ed0b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Court's Activity">3b0b03f107f62010a547f1d08c1ed0b0</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_5dcf44da07362010a547f1d08c1ed002</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-11 21:08:39</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

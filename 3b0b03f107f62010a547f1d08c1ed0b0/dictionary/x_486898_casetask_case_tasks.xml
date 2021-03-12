@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Case Tasks" max_length="40" name="x_486898_casetask_case_tasks" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Customer" max_length="120" name="customer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1000" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rease" max_length="40" name="rease" type="string"/>
+    </element>
+</database>
